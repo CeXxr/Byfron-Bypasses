@@ -1,3 +1,6 @@
+How to download:
+If you download as a zip file, there will be some files missing. My suggestion is to go to the latest release and download the .rar file, otherwise many essential features (like tab creations, save/open file, saveinstance, monaco) will be missing and you will barely be able to use Synapse X.
+
 Common Problems:
 "Synapse X not popping up when launched"
 Run as administrator and it will probably be loaded!
